@@ -98,6 +98,7 @@ Uses Strategy Pattern to calculate pricing based on:
 
 com.transfleet
 │
+
 ├── config       # Database connection (Singleton)
 ├── model        # Entity classes
 ├── dao          # Database operations (CRUD)
