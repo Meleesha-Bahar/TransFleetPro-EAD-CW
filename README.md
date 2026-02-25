@@ -22,7 +22,7 @@ This project was developed as part of the **Enterprise Application Development (
 ## 🎥 Demo Video
 
 Watch the full system demonstration here:  
-[Click here to view the demo](PASTE_YOUR_VIDEO_LINK_HERE)
+[Click here to view the demo](https://drive.google.com/file/d/1nI_2-vh0zL2oX3hrf5K8kMjn141qIuVS/view?usp=sharing)
 
 
 ## 🏗️ System Architecture
